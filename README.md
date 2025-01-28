@@ -1,7 +1,7 @@
 # Hospital_Management_System
 
 ## Overview
-The Hospital Management System is a comprehensive application designed to streamline the management of patients, doctors, departments, and health records in a hospital setting. This system allows for efficient patient tracking, symptom logging, task management, and medication interaction checks, making it a valuable tool for healthcare professionals.
+The Hospital Management System is a comprehensive application designed to streamline the management of patients, doctors, departments, and health records in a hospital setting. Developed as a DSA (Data Structures and Algorithms) project using Python, this system efficiently incorporates core concepts of data management and algorithmic problem-solving. It allows for efficient patient tracking, symptom logging, task management, and medication interaction checks, making it a valuable tool for healthcare professionals while demonstrating the practical implementation of DSA principles.
 
 ## Features
 - Patient Management: Add and manage patient records, including their health conditions, severity levels, and assigned doctors.
@@ -28,21 +28,21 @@ The Hospital Management System is a comprehensive application designed to stream
 
 ### Installation
 1. Clone the repository:
-   ```bash
+ bash
    git clone https://github.com/yourusername/hospital-management-system.git
-   ```
+   
 2. Navigate to the project directory:
-   ```bash
+   bash
    cd hospital-management-system
-   ```
+   
 3. Install the required libraries:
-   ```bash
+   bash
    pip install pandas matplotlib numpy
-   ```
+   
 4. Run the application:
-   ```bash
+   bash
    python main.py
-   ```
+   
 
 ## Usage
 1. Login:
